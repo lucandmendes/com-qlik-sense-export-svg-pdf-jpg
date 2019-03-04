@@ -1,0 +1,9 @@
+{
+    "name": "Export PDF,SVG,JPG",
+    "description": "This extension will export charts",
+    "preview": "./icon.png",
+    "type": "visualization",
+    "version": "1",
+    "author": "Lucas Mendes",
+    "src": "/extensions/com-qlik-sense-export-svg-pdf-jpg/./icon.png"
+}
